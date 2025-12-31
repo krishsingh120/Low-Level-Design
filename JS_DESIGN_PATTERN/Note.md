@@ -38,3 +38,12 @@ Factory Design Pattern provides an interface for creating objects, but lets subc
     - You want to hide instantiation details
     - You want to follow Open–Closed Principle
     - Multiple related objects share common behavior
+
+
+## Strategy Design Pattern
+Strategy Pattern lets you change “how something is done” without changing the object that uses it.
+
+#### Strategy Pattern means:
+- Define multiple ways (strategies) to do a task,
+- put each way in a separate class,
+- and choose the strategy at runtime.
